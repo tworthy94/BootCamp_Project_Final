@@ -1,0 +1,21 @@
+,Bike,length of longest straight,Right_Corners,Left_Corners,Year,track_width,MotoGP_avg_speed,GP_distance,corners,Rider_Name,points_mean,Track_Condition,Track_Temp,Humidity,Track,Finish_Time_ms,Category
+0,ducati,1068,10,6,2019,12,166.6,118.4,16,andrea dovizioso,12.59836066,dry,19,52,qat - losail international circuit,2556902.0,MotoGP
+1,honda,1068,10,6,2019,12,166.6,118.4,16,marc marquez,20.05263158,dry,19,52,qat - losail international circuit,2556925.0,MotoGP
+2,honda,1068,10,6,2019,12,166.6,118.4,16,cal crutchlow,10.273972599999999,dry,19,52,qat - losail international circuit,2557222.0,MotoGP
+3,suzuki,1068,10,6,2019,12,166.6,118.4,16,alex rins,11.64705882,dry,19,52,qat - losail international circuit,2557359.0,MotoGP
+4,yamaha,1068,10,6,2019,12,166.6,118.4,16,valentino rossi,16.07741935,dry,19,52,qat - losail international circuit,2557502.0,MotoGP
+5,ducati,1068,10,6,2019,12,166.6,118.4,16,danilo petrucci,6.276923077,dry,19,52,qat - losail international circuit,2559222.0,MotoGP
+6,yamaha,1068,10,6,2019,12,166.6,118.4,16,maverick viñales,10.32,dry,19,52,qat - losail international circuit,2559383.0,MotoGP
+7,suzuki,1068,10,6,2019,12,166.6,118.4,16,joan mir,0.0,dry,19,52,qat - losail international circuit,2561990.0,MotoGP
+8,honda,1068,10,6,2019,12,166.6,118.4,16,takaaki nakagami,3.076923077,dry,19,52,qat - losail international circuit,2564308.0,MotoGP
+9,aprilia,1068,10,6,2019,12,166.6,118.4,16,aleix espargaro,6.530864198,dry,19,52,qat - losail international circuit,2566538.0,MotoGP
+10,yamaha,1068,10,6,2019,12,166.6,118.4,16,franco morbidelli,3.7,dry,19,52,qat - losail international circuit,2566549.0,MotoGP
+11,ktm,1068,10,6,2019,12,166.6,118.4,16,pol espargaro,7.472727272999999,dry,19,52,qat - losail international circuit,2569676.0,MotoGP
+12,honda,1068,10,6,2019,12,166.6,118.4,16,jorge lorenzo,16.92372881,dry,19,52,qat - losail international circuit,2571209.0,MotoGP
+13,aprilia,1068,10,6,2019,12,166.6,118.4,16,andrea iannone,8.62962963,dry,19,52,qat - losail international circuit,2571251.0,MotoGP
+14,ktm,1068,10,6,2019,12,166.6,118.4,16,johann zarco,10.22222222,dry,19,52,qat - losail international circuit,2571995.0,MotoGP
+15,yamaha,1068,10,6,2019,12,166.6,118.4,16,fabio quartararo,0.0,dry,19,52,qat - losail international circuit,2572807.0,MotoGP
+16,ktm,1068,10,6,2019,12,166.6,118.4,16,miguel oliveira,0.0,dry,19,52,qat - losail international circuit,2573279.0,MotoGP
+17,ducati,1068,10,6,2019,12,166.6,118.4,16,karel abraham,2.9347826089999995,dry,19,52,qat - losail international circuit,2579874.0,MotoGP
+18,ducati,1068,10,6,2019,12,166.6,118.4,16,tito rabat,2.793103448,dry,19,52,qat - losail international circuit,2579941.0,MotoGP
+19,ktm,1068,10,6,2019,12,166.6,118.4,16,hafizh syahrin,3.384615385,dry,19,52,qat - losail international circuit,2600144.0,MotoGP
